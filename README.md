@@ -3,7 +3,9 @@
 Задание 1
 
 https://github.com/ELK23/1.3/blob/main/deployment.yaml
+
 https://github.com/ELK23/1.3/blob/main/service.yaml
+
 https://github.com/ELK23/1.3/blob/main/test-pod.yaml
 
 Поды до масшатбирования
