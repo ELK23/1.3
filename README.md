@@ -15,7 +15,10 @@
 
 ![image](https://github.com/user-attachments/assets/2ae313bf-33a8-4175-8332-bd16c9fc1daf)
 
+Все развернутые сущности
+
 ![image](https://github.com/user-attachments/assets/8ceaf62b-0771-4b46-9bc0-ac04ceb64223)
+
 
 ![image](https://github.com/user-attachments/assets/84be42fa-10dc-49c1-a6ef-c060c94fc8f1)
 
