@@ -19,15 +19,11 @@
 
 ![image](https://github.com/user-attachments/assets/8ceaf62b-0771-4b46-9bc0-ac04ceb64223)
 
+Задание 2
+Deployment ожидает сервис
 
 ![image](https://github.com/user-attachments/assets/84be42fa-10dc-49c1-a6ef-c060c94fc8f1)
 
-![image](https://github.com/user-attachments/assets/1aae80e4-b74a-4947-8f78-5d8f64b9508c)
-
-![image](https://github.com/user-attachments/assets/86a00809-a266-41a9-a461-f0e1bcffcc16)
-
-
-Задание 2
 
 ![image](https://github.com/user-attachments/assets/3b396182-17a5-47b9-b0f1-09062e621bb8)
 
