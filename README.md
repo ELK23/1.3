@@ -20,12 +20,14 @@
 ![image](https://github.com/user-attachments/assets/8ceaf62b-0771-4b46-9bc0-ac04ceb64223)
 
 Задание 2
+
 Deployment ожидает сервис
 
 ![image](https://github.com/user-attachments/assets/84be42fa-10dc-49c1-a6ef-c060c94fc8f1)
 
 
 ![image](https://github.com/user-attachments/assets/3b396182-17a5-47b9-b0f1-09062e621bb8)
+
 
 ![image](https://github.com/user-attachments/assets/863ea23d-abf6-456c-9851-be4addd3fc63)
 
