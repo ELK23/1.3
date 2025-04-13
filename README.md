@@ -29,6 +29,9 @@ Deployment ожидает сервис
 ![image](https://github.com/user-attachments/assets/3b396182-17a5-47b9-b0f1-09062e621bb8)
 
 
+После запуска
+
+
 ![image](https://github.com/user-attachments/assets/863ea23d-abf6-456c-9851-be4addd3fc63)
 
 ![image](https://github.com/user-attachments/assets/9c34362b-916a-48af-a5bd-8b5300cdcfae)
