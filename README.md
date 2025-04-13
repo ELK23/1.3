@@ -7,7 +7,11 @@
 
 ![image](https://github.com/user-attachments/assets/23980783-a2a1-417f-a9f6-b24e7b159a94)
 
+Проверка доступа до nginx
+
 ![image](https://github.com/user-attachments/assets/618529d5-1155-45dd-850f-61244728d122)
+
+Проверка доступа до multitool
 
 ![image](https://github.com/user-attachments/assets/2ae313bf-33a8-4175-8332-bd16c9fc1daf)
 
