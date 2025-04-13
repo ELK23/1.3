@@ -30,6 +30,10 @@ https://github.com/ELK23/1.3/blob/main/test-pod.yaml
 
 Задание 2
 
+https://github.com/ELK23/1.3/blob/main/deployment2.yaml
+
+https://github.com/ELK23/1.3/blob/main/service2.yaml
+
 Deployment ожидает сервис
 
 ![image](https://github.com/user-attachments/assets/84be42fa-10dc-49c1-a6ef-c060c94fc8f1)
