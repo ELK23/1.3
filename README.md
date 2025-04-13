@@ -1,6 +1,9 @@
 # 1.3
+Поды до масшатбирования
 
 ![image](https://github.com/user-attachments/assets/5aa878e9-9b45-4663-af43-c3363fb18c65)
+
+Поды после масштабирования
 
 ![image](https://github.com/user-attachments/assets/23980783-a2a1-417f-a9f6-b24e7b159a94)
 
