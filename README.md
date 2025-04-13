@@ -1,4 +1,11 @@
 # 1.3
+
+Задание 1
+
+https://github.com/ELK23/1.3/blob/main/deployment.yaml
+https://github.com/ELK23/1.3/blob/main/service.yaml
+https://github.com/ELK23/1.3/blob/main/test-pod.yaml
+
 Поды до масшатбирования
 
 ![image](https://github.com/user-attachments/assets/5aa878e9-9b45-4663-af43-c3363fb18c65)
